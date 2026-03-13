@@ -50,4 +50,4 @@ Outputs the red text "If you see a wormhole, report it to the wormholefighters a
 ⚠ **if you want to work at wormhole, see [this page](CONTRIBUTING.md)**
 
 
-# COPYRIGHT Is Unknown Inc. 2025
+# COPYRIGHT Wormhole 2026
